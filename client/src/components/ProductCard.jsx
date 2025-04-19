@@ -83,7 +83,6 @@ const ProductCard = ({ product }) => {
         </div>
       </div>
     </div>
-    
   );
 };
 
